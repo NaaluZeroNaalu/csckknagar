@@ -3,7 +3,7 @@ import streamlit as st
 pages = {
 
     "REPORTS":[
-        st.Page("pro.py",title="Send Mail ",icon=":material/view_timeline:"),
+        st.Page("lap.py",title="Send Mail ",icon=":material/view_timeline:"),
         st.Page("Test.py",title="Check",icon=":material/home:"),
 
     ]
